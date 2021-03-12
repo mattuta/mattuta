@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mattuta
 - 👀 I’m interested in Python, PHP, Arduino, Raspberry, photography analog and digital, robotic and data science.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on projects data science and new tecnologies.
+- 💞️ I’m looking to collaborate on projects data science and new tecnology.
 - 📫 How to reach me in instagram @mattuta or m1t2h3@gmail.com
 
 <!---
